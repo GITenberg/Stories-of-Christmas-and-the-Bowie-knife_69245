@@ -5,6 +5,9 @@ contributor:
     agent_name: Hunter, Warren
     gutenberg_agent_id: '55179'
     url: http://www.gutenberg.org/2009/agents/55179
+covers:
+- cover_type: archival
+  image_path: 69245-h/images/cover.jpg
 creator:
   author:
     agent_name: Dobie, J. Frank (James Frank)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/176
     wikipedia: https://en.wikipedia.org/wiki/J._Frank_Dobie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69245#Stories-of-Christmas-and-the-Bowie-knife
 gutenberg_issued: '2022-10-27'
 identifiers:
   gutenberg: '69245'
